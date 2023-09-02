@@ -20,7 +20,7 @@ p {
   height: 600px;
   padding-top: 60px;
   background-color: rgb(1, 39, 64);
-  background-image: linear-gradient(rgba(4, 0, 31, 1), rgba(126, 255, 248, 0.2), rgba(4, 0, 31, 1)), url('banner.png');
+  background-image: linear-gradient(rgba(4, 0, 31, 1), rgba(126, 255, 248, 0.2), rgba(4, 0, 31, 1)), url('../images/banner.png');
   background-size: cover;
   background-repeat: no-repeat;
   border-bottom: 1px solid white;
@@ -105,7 +105,7 @@ main {
   height: 560px;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url('woman-code.png');
+  background-image: url('../images/woman-code.png');
   background-position: center;
   background-attachment: fixed;
   background-color: rgba(252, 3, 215, .3);
